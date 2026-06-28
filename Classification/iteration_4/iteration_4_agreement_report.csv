@@ -1,0 +1,5 @@
+﻿label_type,n_items,percent_agreement,n_disagreements
+target_population,100,83.0,17
+locals_vs_diaspora,100,84.0,16
+person_vs_organization,100,88.0,12
+all_three_labels,100,73.0,27
